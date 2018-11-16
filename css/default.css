@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.token.selector{
+    color: black;
+}
+.token.property {
+    color: black;
+
+}
+.token.function{
+    color: black;
+}
+
